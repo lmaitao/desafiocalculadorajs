@@ -1,0 +1,1 @@
+Proyecto realizado por Magdalena González, Luis Maita y Mauro López para desafío N°1 módulo JavaScript. 
